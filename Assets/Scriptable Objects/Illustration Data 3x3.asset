@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f923dd1b9c140859c76697753cdc3aa, type: 3}
+  m_Name: Illustration Data 3x3
+  m_EditorClassIdentifier: 
+  sizeX: 3
+  sizeY: 3
+  partSize: 300
+  partsSpace: 25
+  draggableSize: 300
+  illustration: {fileID: -850032069, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  partDates:
+  - x: 1
+    y: 1
+    image: {fileID: 826344672, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 2
+    y: 1
+    image: {fileID: -801944940, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 3
+    y: 1
+    image: {fileID: -166687752, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 1
+    y: 2
+    image: {fileID: -1390472076, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 2
+    y: 2
+    image: {fileID: 958638377, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 3
+    y: 2
+    image: {fileID: -546968461, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 1
+    y: 3
+    image: {fileID: -2078625487, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 2
+    y: 3
+    image: {fileID: -1070905134, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}
+  - x: 3
+    y: 3
+    image: {fileID: -326888209, guid: 0e1b183e2e4f3c34d858e2e1eae3f975, type: 3}

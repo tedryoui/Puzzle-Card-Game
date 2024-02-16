@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f923dd1b9c140859c76697753cdc3aa, type: 3}
+  m_Name: Illustration Data 2x2
+  m_EditorClassIdentifier: 
+  sizeX: 2
+  sizeY: 2
+  partSize: 500
+  partsSpace: 25
+  draggableSize: 300
+  illustration: {fileID: 1727018626, guid: ab7537e76abb89341b8fca657a9cf235, type: 3}
+  partDates:
+  - x: 1
+    y: 1
+    image: {fileID: -1573908782618182605, guid: ab7537e76abb89341b8fca657a9cf235, type: 3}
+  - x: 2
+    y: 1
+    image: {fileID: 685309159, guid: ab7537e76abb89341b8fca657a9cf235, type: 3}
+  - x: 1
+    y: 2
+    image: {fileID: -1510490861, guid: ab7537e76abb89341b8fca657a9cf235, type: 3}
+  - x: 2
+    y: 2
+    image: {fileID: 721496922, guid: ab7537e76abb89341b8fca657a9cf235, type: 3}

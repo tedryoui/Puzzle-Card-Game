@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f923dd1b9c140859c76697753cdc3aa, type: 3}
+  m_Name: Illustration Data 5x5
+  m_EditorClassIdentifier: 
+  sizeX: 5
+  sizeY: 5
+  partSize: 150
+  partsSpace: 15
+  draggableSize: 300
+  illustration: {fileID: -1540078827, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  partDates:
+  - x: 1
+    y: 1
+    image: {fileID: 2715020585741827904, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 2
+    y: 1
+    image: {fileID: 586982396, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 3
+    y: 1
+    image: {fileID: -358589994, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 4
+    y: 1
+    image: {fileID: 985720347, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 5
+    y: 1
+    image: {fileID: -1349332625, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 1
+    y: 2
+    image: {fileID: -613609420, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 2
+    y: 2
+    image: {fileID: 1634974167, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 3
+    y: 2
+    image: {fileID: -1551463838, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 4
+    y: 2
+    image: {fileID: 33484316, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 5
+    y: 2
+    image: {fileID: -258388161, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 1
+    y: 3
+    image: {fileID: 1394762190, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 2
+    y: 3
+    image: {fileID: 1884940811, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 3
+    y: 3
+    image: {fileID: -321435364, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 4
+    y: 3
+    image: {fileID: -1025184261, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 5
+    y: 3
+    image: {fileID: -934173049, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 1
+    y: 4
+    image: {fileID: 241740433, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 2
+    y: 4
+    image: {fileID: -623313452, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 3
+    y: 4
+    image: {fileID: -1449954767, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 4
+    y: 4
+    image: {fileID: 1776733989, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 5
+    y: 4
+    image: {fileID: -938130474, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 1
+    y: 5
+    image: {fileID: -1886203097, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 2
+    y: 5
+    image: {fileID: -1752262644, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 3
+    y: 5
+    image: {fileID: 1445989268, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 4
+    y: 5
+    image: {fileID: -1249468890, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}
+  - x: 5
+    y: 5
+    image: {fileID: 1057394993, guid: 5a7e90beae42cdb408051d129c72be4f, type: 3}

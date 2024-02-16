@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f923dd1b9c140859c76697753cdc3aa, type: 3}
+  m_Name: Illustration Data 4x4
+  m_EditorClassIdentifier: 
+  sizeX: 4
+  sizeY: 4
+  partSize: 250
+  partsSpace: 20
+  draggableSize: 300
+  illustration: {fileID: 748719300, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  partDates:
+  - x: 1
+    y: 1
+    image: {fileID: 7265104469072803151, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 2
+    y: 1
+    image: {fileID: 1648684557, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 3
+    y: 1
+    image: {fileID: 1396538878, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 4
+    y: 1
+    image: {fileID: 2096142362, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 1
+    y: 2
+    image: {fileID: -2032190281, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 2
+    y: 2
+    image: {fileID: -1530344462, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 3
+    y: 2
+    image: {fileID: 1519335150, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 4
+    y: 2
+    image: {fileID: 2079941621, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 1
+    y: 3
+    image: {fileID: -1002150969, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 2
+    y: 3
+    image: {fileID: -878703257, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 3
+    y: 3
+    image: {fileID: 1737071981, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 4
+    y: 3
+    image: {fileID: -173170933, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 1
+    y: 4
+    image: {fileID: -2043779508, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 2
+    y: 4
+    image: {fileID: -541445679, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 3
+    y: 4
+    image: {fileID: 143329883, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
+  - x: 4
+    y: 4
+    image: {fileID: 225569306, guid: 9534807e9881ba348ae9b6a9cc8a14da, type: 3}
